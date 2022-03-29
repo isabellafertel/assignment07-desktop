@@ -1,17 +1,44 @@
-h1 
+h1 { 
+	font-size: ;
+	font-family: ;
+	color: black ;
+	text-align: center;
 
-h2
+}
 
-h3
+h2 { font-size: ;
+	font-family: helvetica, sans-serif ;
+	color: orangered ;
+	text-align: center;
+}
 
-h4
+h3 {  font-size: ;
+	font-family: helvetica, sans-serif ;
+	color: gray;
+	text-align: left;
 
-figcaption
+}
 
-.other
+h4 {
 
-.byline
+}
 
-.article 
+figcaption {
 
-.bold
+}
+
+.other {
+
+}
+
+.byline {
+
+}
+
+.article {
+
+}
+
+.bold {
+
+}
