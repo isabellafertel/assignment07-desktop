@@ -1,0 +1,10 @@
+.grid1 {
+	display: grid;
+	grid-template-columns: 3fr 1.5fr;
+	margin-bottom: 20px;
+} 
+
+.grid2 {
+	display: grid;
+	grid-template-colums: 3fr 1.5fr;
+}

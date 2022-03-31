@@ -1,0 +1,27 @@
+#masthead {
+	display: block;  /* https://www.w3schools.com/css/css_align.asp */ 
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#img1 {
+	display: block;
+	width: 95%;
+}
+
+#img2 {
+	display: block;
+	width: 55%;
+	;
+}
+
+#img3 {
+	display: block;
+	width: 55%;
+}
+
+#img4 {
+	display: block;
+	width: 55%;
+}
